@@ -1,6 +1,6 @@
 ### Mini project[Spring Boot/JDK21-Virtual Thread] 
 2025.06 -
-# 쇼핑몰 웹사이트
+# 가상 스레드 적용 LangChain 챗봇 웹페이지(for 요청 처리 효율 향상)
 
 ## 프로젝트 소개
 1. <br/>
