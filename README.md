@@ -13,7 +13,7 @@
 ## 기술스택
 ● 백엔드 프레임워크: SpringBoot<br/>
 ● JDK 버전: JDK 21(Virtual Thread 기능 활용)<br/>
-● AI 서버: Flask=<br/>
+● AI 서버: Flask<br/>
 ● AI 모델 및 프레임워크 : OpenAI + LangChain (LLM 응답 흐름 제어 및 프롬프트 체인 구성)<br/>
 *Flask: Python기반 REST API 서버. 경량<br/>
 *LangChain: LLM오케스트레이션 프레임워크(OpenAI의 GPT API를 연결하고, 프롬프트 체인, Tool 연결, 메모리 관리 등 지원)<br/>
