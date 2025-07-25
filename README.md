@@ -30,5 +30,5 @@ JDK21는 스프링6이랑 호환성o, 톰캣10 이상에서 안정적으로 동�
 
 
 ### 현재 후속 프로젝트로 챗봇(txt문서=>백터DB화) 구현, 웹페이지 고도화 진행 중
-https://github.com/Seowon-Park/ChatBot_pj2<br/>
-https://github.com/Seowon-Park/ChatBot_pj2_AI<br/>
+웹(스프링부트): https://github.com/Seowon-Park/ChatBot_pj2<br/>
+AI서버(LangChain): https://github.com/Seowon-Park/ChatBot_pj2_AI<br/>
